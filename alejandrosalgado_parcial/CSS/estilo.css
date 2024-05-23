@@ -1,0 +1,103 @@
+@keyframes fondo{
+    from {background-position-x: 0px;}
+    to {background-position-x: -50px;}
+}
+body{
+    text-align: center;
+    background-color: #ffffff;
+    background-image: url(img/fondo-abstracto-verde-motivos-florales-espacio-copia-texto-o-imagen_900706-12289.webp);
+
+}
+.eti{
+    width: 900px;
+    height: 200px;
+    margin-top: 50px;
+    
+}
+.imagen{
+    width: 30px;
+    height: 30px;
+}
+.conteiner{
+    height: 350px;
+    width: 700px;
+    background-color: rgb(255, 255, 255);  
+    margin: 500px;
+    margin-top: 50px;
+    border-radius: 20px 20px 20px 20px;
+    
+
+
+}
+.encabesado{
+    text-decoration: underline;
+    font-size: 25px;
+    width: 200px;
+}
+.uno{
+    font-size: 25px;
+    width: 600px;
+    margin-bottom: 10px;
+    position: relative;
+
+}
+.tres{
+    font-size: 25px;
+    margin-left: 250px;
+    margin-bottom: 15px;
+    text-decoration: none;
+    position: relative;
+
+}
+.cinco{
+    font-size: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    position: relative;
+
+}
+.cuatro{
+    height: 40px;
+    width: 300px;
+    font-size: 20px;
+    text-align: center;
+    background-color:#007bff;
+    color: #ffffff;
+    border-radius: 10px 10px 10px 10px;
+    margin: auto;
+    position: relative;
+    border: none;
+    box-shadow: 1px 1px 1px 1px;
+}
+.seis{
+    height: 40px;
+    width: 300px;
+    text-align: center;
+    font-size: larger;
+    background-color:#ffffffc5;
+    border-radius: 10px 10px 10px 10px;
+    margin: auto;
+    position: relative;
+    border: none;
+    box-shadow: 1px 1px 1px 1px;
+}
+.dos{
+    height: 30px;
+    width: 600px;
+    font-size: larger;
+    background-color:#ffffffc5;
+    border-radius: 10px 10px 10px 10px;
+    margin: auto;
+    position: relative;
+    border: none;
+    box-shadow: 1px 1px 1px 1px;
+}
+
+.boton{
+  background-color: #007bff;
+  color: #ffffff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
